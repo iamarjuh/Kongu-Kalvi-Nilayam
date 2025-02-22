@@ -10,7 +10,7 @@ body {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    background-image: url(Images/back-image.png);
+    background-image: url('back-image.png');
     background-attachment: fixed;
     color: #333;
     line-height: 1.6;
@@ -44,7 +44,7 @@ body {
     height: 3rem;
     width: 3rem;
     background-size: contain;
-    background-image: url("./Images/KKN_LOGO.jpg");
+    background-image: url("KKN_LOGO.jpg");
   }
   
   .logo-name {
@@ -174,7 +174,7 @@ body {
   
   /* Hero Section */
   header {
-    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('Images/image.png');
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('image.png');
     background-size: cover;
     background-position: center;
     height: calc(100vh - 5rem);
@@ -185,7 +185,7 @@ body {
     color: white;
   }
   #about-us-header{
-    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('Images/about-us.png');
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('about-us.png');
   }
   
   header h1 {
