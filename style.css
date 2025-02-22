@@ -118,7 +118,7 @@ body {
   }
   
   /* Mobile View */
-  @media (max-width: 768px) {
+  @media (max-width: 1024px) {
     .logo-name {
       font-size: 1.2rem; /* Decrease logo name size */
     }
@@ -269,7 +269,7 @@ body {
     
   }
   /* Responsive Design for Content Layout */
-  @media (max-width: 768px) {
+  @media (max-width: 1024px) {
     .section {
       flex-direction: column;
       text-align: center;
@@ -360,7 +360,7 @@ body {
   }
   
   /* Responsive Design for Footer */
-  @media (max-width: 768px) {
+  @media (max-width: 1024px) {
     .footer-container {
       flex-direction: column;
       align-items: center;
