@@ -207,7 +207,7 @@ p {
 @import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css');
 
 /* Responsive Design */
-@media (max-width: 768px) {
+@media (max-width: 1024px) {
   .footer-container {
     flex-direction: column; /* Stack columns vertically */
     align-items: center; /* Center-align columns */
